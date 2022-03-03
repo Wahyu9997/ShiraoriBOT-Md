@@ -10,8 +10,8 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├🏧 081351047727 (OVO/Dana/GoPay)
-├📍 https://saweria.co/ilmanhdyt
+├🏧 089516809533 (OVO/Dana/GoPay)
+├📍 https://saweria.com
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
